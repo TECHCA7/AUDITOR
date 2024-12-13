@@ -1,0 +1,42 @@
+Privacy Policy for Data Fetcher
+Effective Date: December 13, 2024
+________________________________________
+Privacy Policy for Data Fetcher
+At Data Fetcher ("we," "our," or "us"), we value your privacy and are committed to protecting your data. This Privacy Policy explains how we collect, use, and handle your information when you use our app to fetch data from your Google Drive.
+________________________________________
+1. Information We Collect
+When you use our app, we may access and process the following information:
+•	Google Drive Metadata: File names, IDs, and links for files that match your request (e.g., ITRV_<client_code>.pdf).
+•	OAuth Tokens: Temporary tokens provided by Google for authentication purposes.
+________________________________________
+2. Purpose of Data Usage
+We use your data solely to process your request for fetching specific files from your Google Drive.
+Your data will not be used for any other purpose, including marketing, advertising, or analytics.
+________________________________________
+3. Data Storage and Retention
+•	Temporary Data Storage: OAuth tokens and metadata required for processing your request are temporarily stored during the session.
+•	Automatic Deletion: All tokens and metadata are deleted immediately after fulfilling your request.
+________________________________________
+4. Data Sharing
+•	We do not share, sell, or disclose your data to third parties.
+•	All interactions occur directly between our app and Google's API servers.
+________________________________________
+5. Security Measures
+We take industry-standard security measures to protect your data:
+•	Secure storage of OAuth tokens during the session.
+•	Encryption of communication between our app and Google's API servers.
+________________________________________
+6. Your Control
+You have full control over the permissions granted to our app:
+•	You can revoke our app's access to your Google Drive at any time via your Google Account Permissions page.
+________________________________________
+7. Compliance
+We comply with Google's API Terms of Service and applicable privacy laws, ensuring your data is handled responsibly.
+________________________________________
+8. Updates to this Privacy Policy
+We may update this Privacy Policy from time to time. Any updates will be reflected in this document, and we encourage you to review it periodically.
+________________________________________
+9. Contact Us
+If you have questions or concerns about this Privacy Policy, please contact us at:
+•	Email: TECHCA7@GMAIL.COM
+
